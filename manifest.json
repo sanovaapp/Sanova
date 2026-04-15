@@ -1,0 +1,27 @@
+{
+  "name": "Sanova — Diário GLP-1",
+  "short_name": "Sanova",
+  "description": "Diário clínico para pacientes de Tirzepatida, Semaglutida e Liraglutida",
+  "start_url": "/sanova/",
+  "scope": "/sanova/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#052e16",
+  "theme_color": "#052e16",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon-192-1.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512-1.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "medical", "fitness"]
+}
